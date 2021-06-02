@@ -1,0 +1,12 @@
+torch==1.8.0.dev20210124+cu110
+torchaudio==0.8.0.dev20210124
+torchvision==0.9.0.dev20210124
+numpy==1.19.5
+pandas==1.2.1
+networkx==2.5
+netrd==0.2.2
+matplotlib==3.3.3
+scipy==1.6.0
+seaborn==0.11.1
+tqdm==4.60.0
+jupyterlab
