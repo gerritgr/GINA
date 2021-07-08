@@ -32,7 +32,7 @@ GINA considers each snapshot (observation of all components) individually and tr
 Install Python3, Pip3, and Jupyter notebook. Install Python-dependencies with: 
 
 ```console
-pip3 install requirements.txt
+pip install -r requirements.txt
 ```
 Start Jupyter notebook
 
