@@ -44,4 +44,14 @@ and select the `gina.ipynb` file.
 Alternatively, you can upload the  `gina.ipynb` file to [Google Colab](https://colab.research.google.com/?utm_source=scs-index).
 
 
-(Code comming soon)
+## Conda Environment
+To use GINA in a Conda environment:
+Fist, install [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+Then,
+
+```console
+conda create -n ginaenv python=3.6
+conda install -n ginaenv pip
+conda activate ginaenv
+pip install -r requirements.txt
+```
