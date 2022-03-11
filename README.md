@@ -54,4 +54,6 @@ conda create -n ginaenv python=3.6
 conda install -n ginaenv pip
 conda activate ginaenv
 pip install -r requirements.txt
+jupyter lab
 ```
+and open the `gina.ipynb` file. 
