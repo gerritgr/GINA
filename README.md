@@ -42,10 +42,10 @@ Start Jupyter notebook
 ```console
 jupyter notebook
 ```
-and select the `gina.ipynb` file. 
+and select the `GINA.ipynb` file. 
 
 ### Possibility II: With Colab
-You can upload the  `gina.ipynb` file to [Google Colab](https://colab.research.google.com/?utm_source=scs-index).
+You can upload the  `GINA.ipynb` file to [Google Colab](https://colab.research.google.com/?utm_source=scs-index).
 
 
 ### Possibility III: Within a Conda environment 
@@ -60,4 +60,4 @@ conda activate ginaenv
 pip install -r requirements.txt
 jupyter lab
 ```
-and open the `gina.ipynb` file. 
+and open the `GINA.ipynb` file. 
