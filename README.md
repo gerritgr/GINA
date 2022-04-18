@@ -30,7 +30,7 @@ GINA considers each snapshot (observation of all components) individually and tr
 
 # Usage
 
-### With Standard Python
+### Possibility I: With Standard Python
 
 Install Python3, Pip3, and Jupyter notebook. Install Python-dependencies with: 
 
@@ -44,11 +44,11 @@ jupyter notebook
 ```
 and select the `gina.ipynb` file. 
 
-### With Colab
+### Possibility II: With Colab
 You can upload the  `gina.ipynb` file to [Google Colab](https://colab.research.google.com/?utm_source=scs-index).
 
 
-### Within a Conda environment 
+### Possibility III: Within a Conda environment 
 To use GINA in a Conda environment:
 Fist, install [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 Then,
