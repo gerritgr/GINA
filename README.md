@@ -45,7 +45,7 @@ jupyter notebook
 and select the `GINA.ipynb` file. 
 
 ### Possibility II: With Colab
-You can upload the  `GINA.ipynb` file to [Google Colab](https://colab.research.google.com/?utm_source=scs-index).
+You can upload the  `GINA.ipynb` file to [Google Colab](https://colab.research.google.com/?utm_source=scs-index) or click on the _open in colab_ badge at the top.
 
 
 ### Possibility III: Within a Conda environment 
