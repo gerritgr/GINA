@@ -57,6 +57,7 @@ Then,
 conda create -n ginaenv python=3.6
 conda install -n ginaenv pip
 conda activate ginaenv
+conda install nb_conda
 pip install -r requirements.txt
 jupyter lab
 ```
