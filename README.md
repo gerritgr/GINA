@@ -48,7 +48,7 @@ and select the `GINA.ipynb` file.
 You can upload the  `GINA.ipynb` file to [Google Colab](https://colab.research.google.com/?utm_source=scs-index) or click on the _open in colab_ badge at the top.
 
 
-### Possibility III: Within a Conda environment 
+### Possibility III: Within a Conda Environment 
 To use GINA in a Conda environment:
 Fist, install [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 Then,
