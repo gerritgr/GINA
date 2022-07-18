@@ -62,3 +62,14 @@ pip install -r requirements.txt
 jupyter lab
 ```
 and open the `GINA.ipynb` file. 
+
+### Possibility IV: Use Docker
+You can use the GINA docker image.
+```console
+docker pull gerritgr/gina:2022-07-17--13-11
+```
+Run with:
+```console
+docker run -p 10000:8888 gerritgr/GINA
+```
+and open the `GINA.ipynb` file in Jupyter lab.
