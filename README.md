@@ -7,7 +7,7 @@ Unsupervised relational inference using masked reconstruction
 Copyright: 2023, Gerrit Großmann, [Group of Modeling and Simulation](https://mosi.uni-saarland.de/) at [Saarland University](http://www.cs.uni-saarland.de/)
 
 
-Official implementation of [Unsupervised relational inference using masked reconstruction](https://arxiv.org/abs/2105.14329)
+Official implementation of [Unsupervised relational inference using masked reconstruction](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00542-x)
 
 Version: 0.1 (Please note that this is proof-of-concept code.)
 
