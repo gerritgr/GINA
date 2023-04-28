@@ -70,6 +70,6 @@ docker pull gerritgr/gina:2022-07-17--13-11
 ```
 Run with:
 ```console
-docker run -p 8888:8888 gerritgr/GINA
+docker run -p 8888:8888 gerritgr/gina:2022-07-17--13-11
 ```
 and open the `GINA.ipynb` file in Jupyter lab.
