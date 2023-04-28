@@ -11,4 +11,4 @@ RUN rm -rf GINA/
 
 
 # compile with (within the folder of Dockerfile):  docker build -t gerritgr/GINA . (replace gerritgr with your username)
-# start with: docker run -p 10000:8888 gerritgr/GINA   # at my PC the default port doesn't work
+# start with: docker run -p 10000:8888 gerritgr/GINA   # at my PC the default port doesn't work, I then got to http://localhost:10000/ and add the token from the command line manually
